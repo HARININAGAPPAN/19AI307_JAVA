@@ -25,11 +25,9 @@ To create a class Car with attributes brand, model, year. Create 2 objects and p
 ## PROGRAM:
  ```
 /*
-Program to implement a Class and Objects using Java
-Developed by: Venkata Mohan N
-RegisterNumber: 212224230298
-
-
+Program to implement variables and Operators using Java
+Developed by: Harini N
+RegisterNumber: 212223040057
 */
 ```
 
