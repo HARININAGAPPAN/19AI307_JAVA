@@ -24,10 +24,9 @@ To write a Java Program to Find the Average of Array Elements.
 ## PROGRAM:
  ```
 /*
-Program to implement a Array concept using Java
-Developed by: Venkata Mohan N
-RegisterNumber: 212224230298
-
+Program to implement variables and Operators using Java
+Developed by: Harini N
+RegisterNumber: 212223040057
 
 
 */
